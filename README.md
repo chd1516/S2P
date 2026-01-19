@@ -38,6 +38,7 @@ Here is the data format:
   },
 ]
 ```
+</details>
 
 ## Tasks
 ### Training
